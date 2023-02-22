@@ -1,0 +1,7 @@
+Package: diya
+Version: 0.1.0
+Maintainer: Patrick Flynn <pflynn157@gmail.com>
+Depends: python3
+Architecture: amd64
+Homepage: https://patrickflynn.xyz/diya
+Description: A static site generator
